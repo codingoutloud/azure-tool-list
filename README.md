@@ -477,3 +477,8 @@ Found a tool that should be listed here? Please submit a pull request or open an
 ## License
 
 This list is provided under the MIT License. Individual tools have their own licenses.
+# azure-tool-list
+Tools for Azure.
+
+- [Bicep Linter](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/linter)
+- [Azure Region Span](https://github.com/vmisson/azure-region-span)
